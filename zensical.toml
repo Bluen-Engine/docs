@@ -1,5 +1,8 @@
 [project]
 site_name="Axis Documentation"
+site_url = "https://axis-engine.github.io/docs"
+site_description = "The official documentation for Axis Engine!"
+site_author = "Axis Engine"
 
 [[project.theme.palette]]
 media = "(prefers-color-scheme: light)"
