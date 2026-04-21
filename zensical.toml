@@ -1,8 +1,8 @@
 [project]
-site_name="Axis Documentation"
+site_name="Bluen Documentation"
 site_url = "https://axis-engine.github.io/docs"
-site_description = "The official documentation for Axis Engine!"
-site_author = "Axis Engine"
+site_description = "The official documentation for Bluen Engine!"
+site_author = "Bluen Engine"
 
 [[project.theme.palette]]
 media = "(prefers-color-scheme: light)"

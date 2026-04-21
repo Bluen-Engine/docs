@@ -8,4 +8,4 @@ icon: lucide/book-marked
 
 	This site is still being built. Content may be incomplete or change at any time.
 
-Welcome to the official documentation for Axis Engine, an open-source game engine! It supports both 2D and 3D games.
+Welcome to the official documentation for Bluen Engine, an open-source game engine! It supports both 2D and 3D games.
