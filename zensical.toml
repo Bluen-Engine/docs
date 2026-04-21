@@ -4,6 +4,10 @@ site_url = "https://axis-engine.github.io/docs"
 site_description = "The official documentation for Bluen Engine!"
 site_author = "Bluen Engine"
 
+[project.theme]
+logo = "images/bluen-standard-dark.svg"
+favicon = "images/bluen-standard-dark.svg"
+
 [[project.theme.palette]]
 media = "(prefers-color-scheme: light)"
 scheme = "default"
