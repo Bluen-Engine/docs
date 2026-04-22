@@ -3,10 +3,18 @@ site_name="Bluen Documentation"
 site_url = "https://axis-engine.github.io/docs"
 site_description = "The official documentation for Bluen Engine!"
 site_author = "Bluen Engine"
+repo_url = "https://github.com/Bluen-Engine/Bluen"
+repo_name = "Bluen"
+edit_uri = "https://github.com/Bluen-Engine/docs/edit/master/docs/"
 
 [project.theme]
 logo = "images/bluen-standard-dark.svg"
 favicon = "images/bluen-standard-dark.svg"
+icon.repo = "fontawesome/brands/github"
+features = [
+  "content.action.edit", # Edit this page
+  "content.action.view"  # View source of this page
+]
 
 [[project.theme.palette]]
 media = "(prefers-color-scheme: light)"
